@@ -2,6 +2,20 @@
 
 Production site for thrillwave.com. Static HTML/CSS/JS — no build step required.
 
+## Screenshots
+
+Full-page captures at laptop width (1440px), taken Sept 29, 2026. Click one to open it full size. This version is not deployed anywhere yet.
+
+| Home | SITREP | Portfolio |
+|:---:|:---:|:---:|
+| [<img src="docs/screenshots/home.jpg" width="260" alt="Home page">](docs/screenshots/home.jpg) | [<img src="docs/screenshots/sitrep.jpg" width="260" alt="SITREP page">](docs/screenshots/sitrep.jpg) | [<img src="docs/screenshots/portfolio.jpg" width="260" alt="Portfolio page">](docs/screenshots/portfolio.jpg) |
+
+| Intel | Contact |
+|:---:|:---:|
+| [<img src="docs/screenshots/intel.jpg" width="260" alt="Intel page">](docs/screenshots/intel.jpg) | [<img src="docs/screenshots/contact.jpg" width="260" alt="Contact page">](docs/screenshots/contact.jpg) |
+
+Captured offline, so the Vimeo videos show as gray boxes and the Archivo / IBM Plex Mono fonts fall back to a system font. Live in a browser, both load normally.
+
 ---
 
 ## FILE STRUCTURE
